@@ -1,2 +1,2 @@
-# Mail-G-derme
-Basit  bi mail gönderme uygulaması
+Android uygulaması üzerinde basit  bi mail gönderme uygulaması
+
